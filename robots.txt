@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-memphis-tn.netlify.app/sitemap.xml
